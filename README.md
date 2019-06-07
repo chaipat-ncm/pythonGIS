@@ -16,3 +16,6 @@
 - การแสดงผลข้อมูลแผนที่แบบ thematic map
 - การเผยแพร่ข้อมูลออนไลน์ แบบ Interactive Web Mapping
 - การเข้าถึงและประมวลผลข้อมูลเชิงพื้นที่ผ่าน OGC web Service เช่น WMS , WFS
+
+# Colab Notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
