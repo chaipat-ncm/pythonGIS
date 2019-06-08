@@ -18,6 +18,7 @@
 - การเข้าถึงและประมวลผลข้อมูลเชิงพื้นที่ผ่าน OGC web Service เช่น WMS , WFS
 
 # Colab Notebook
+- code และตัวอย่างการเขียนโปรแกรม python 
 [(https://colab.research.google.com/drive/1OribGGE3m81sLSPh1EvmCToc_h3TqOlX]
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
