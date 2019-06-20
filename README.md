@@ -16,6 +16,9 @@
 - การเผยแพร่ข้อมูลออนไลน์ แบบ Interactive Web Mapping
 - การเข้าถึงและประมวลผลข้อมูลเชิงพื้นที่ผ่าน OGC web Service เช่น WMS , WFS
 
+# ไฟล์เอกสาร slide บรรยาย
+https://github.com/chaipat-ncm/pythonGIS/blob/master/docs/Python%20for%20%20Open%20Source%20GIS_print.pdf
+
 # Colab Notebook
 - code และตัวอย่างการเขียนโปรแกรม python 
 [(https://colab.research.google.com/drive/1OribGGE3m81sLSPh1EvmCToc_h3TqOlX]
